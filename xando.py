@@ -2,6 +2,7 @@ import random
 player1 = ""
 player2 = ""
 grid = ""
+board = []
 def check_positions(x,y):
    global grid
    #check xaxis
